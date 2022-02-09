@@ -1,1 +1,3 @@
 main logic 
+Do addition
+Do multiplication
